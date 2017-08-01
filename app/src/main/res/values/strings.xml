@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LifeOutSideOurApp</string>
+    <string name="main_detail">Its a Dream Service application which runs like a screensaver in
+        background while it\'s connected in charging and docked mode. It\'s my first DreamService
+    App and it\'s pretty exiting it worked :)</string>
+</resources>
